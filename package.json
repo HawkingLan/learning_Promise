@@ -1,0 +1,25 @@
+{
+  "name": "learning_promise",
+  "version": "1.0.0",
+  "description": "promise基础实现",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HawkingLan/learning_Promise.git"
+  },
+  "keywords": [
+    "promise"
+  ],
+  "author": "HawkingLan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HawkingLan/learning_Promise/issues"
+  },
+  "homepage": "https://github.com/HawkingLan/learning_Promise#readme",
+  "devDependencies": {
+    "promises-aplus-tests": "^2.1.2"
+  }
+}
